@@ -8,7 +8,7 @@
 #include "counting.hpp"
 
 /// Getting a name of team from line
-
+//dfhfrtghfgtfth
 string nameOfTeam(string line, int length, int &index){
     string result = "";
     index = 0;
