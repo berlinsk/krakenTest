@@ -7,5 +7,8 @@
 
 #include "functions.hpp"
 //from MacOS
+<<<<<<< HEAD
 
 //dadadadadadadadada
+=======
+>>>>>>> MAC2
