@@ -8,6 +8,7 @@
 #include <iostream>
 #include "counting.hpp"
 #include "functions.hpp"
+#include "Output.hpp"
 using namespace std;
 
 int main(int argc, const char * argv[]) {
